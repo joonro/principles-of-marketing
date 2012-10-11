@@ -1,0 +1,13 @@
+.. rst3: filename: src/mkt337/index
+
+#######################################
+MKT337 Principles of Marketing
+#######################################
+
+.. toctree::
+   :maxdepth: 1
+
+   syllabus/index
+   learning-objectives
+   ...
+

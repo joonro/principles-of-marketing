@@ -1,0 +1,30 @@
+.. rst3: filename: src/graduate-teaching-seminar/learning-goals
+
+#######################################
+Learning Goals
+#######################################
+
+
+As you know, classes were cancelled on Friday and thus, the teaching
+scholars seminar did not meet.  We will meet on September 28th as we would
+have done anyway.  I will do my best to condense the session you missed and
+the next session into one session. To help me do that, please be sure you
+have sent your teaching philosophy statement and also, prior to Sept 28th,
+please send me **learning goals for the class you teach (or if you don’t have
+goals, send me objectives for a specific class session)**. Please send these
+in a .doc or .docx.  If the idea of goals or objectives is completely new to
+you, email me and I will be happy to provide more explanation.   We will
+“workshop” both our teaching philosophies and we will discuss our teaching
+goals at the next session.
+
+Course Objectives
+""""""""""""""""""
+
+This course is designed to introduce business students to the fundamental aspects of marketing: how firms discover and translate customers’ needs and wants into strategies for providing products and services. For students majoring in marketing, this course is intended to provide you with a foundation on which to build subsequent marketing courses and work experience. For students majoring in other business disciplines, this course is intended to help you understand the objectives of marketers with whom you will interact professionally. For all students, the course is intended to enhance your appreciation of the different marketing activities that we encounter every day as consumers. Over the course of the semester you will learn to:
+
+    #. Understand the role of marketing in society and in an economic system.
+    #. Understand the role of marketing in a firm and its relationships with the other functional areas of business (e.g., accounting, finance, MIS, management).
+    #. Identify the key issues that marketers face in various decision areas. 
+    #. Apply the key principles and use the terminology marketers use to discuss marketing issues. 
+    #. Identify and apply the key tools that marketers use to deal with marketing issues.
+

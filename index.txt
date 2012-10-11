@@ -1,0 +1,23 @@
+.. rst3: filename: index
+
+
+#######################################
+MKT 337 Principles of Marketing
+#######################################
+
+.. toctree::
+   :maxdepth: 1
+
+   src/mkt337/syllabus/index
+   src/mkt337/learning-objectives
+   src/graduate-teaching-seminar/index
+   ...
+   
+.. this is a comment.
+
+..
+   This whole indented block
+   is a comment.
+
+   Still in the comment.
+

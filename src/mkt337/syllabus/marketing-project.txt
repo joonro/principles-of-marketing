@@ -1,0 +1,6 @@
+.. rst3: filename: src/mkt337/syllabus/marketing-project
+
+#######################################   
+Marketing Project
+#######################################
+

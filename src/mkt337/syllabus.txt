@@ -1,0 +1,181 @@
+.. rst3: filename: src/mkt337/syllabus
+
+########################################
+Syllabus
+########################################
+
++------------------------------------------------------------------------------------+
+| Principles of Marketing                                                            |
++---------------+--------------------------------------+-----------+-----------------+
+| Instructor:   | Professor Joon Ro                    | Class:    | MKT 337 (04975) |
++---------------+--------------------------------------+-----------+-----------------+
+| Office Hours: | Monday 1:30-2:30pm or by appointment | Time:     | MW 3:30-4:45p   |
++---------------+--------------------------------------+-----------+-----------------+
+| Office:       | CBA 5.334T                           | Location: | CBA 4.348       |
++---------------+--------------------------------------+-----------+-----------------+
+| E-mail:       | joon.ro@austin.utexas.edu            |           |                 |
++---------------+--------------------------------------+-----------+-----------------+
+
+Course Objectives
++++++++++++++++++
+
+This course is designed to introduce business students to the fundamental aspects of marketing: how firms discover and translate customers’ needs and wants into strategies for providing products and services. For students majoring in marketing, this course is intended to provide you with a foundation on which to build subsequent marketing courses and work experience. For students majoring in other business disciplines, this course is intended to help you understand the objectives of marketers with whom you will interact professionally. For all students, the course is intended to enhance your appreciation of the different marketing activities that we encounter every day as consumers. Over the course of the semester you will learn to:
+
+    #. Understand the role of marketing in society and in an economic system.
+    #. Understand the role of marketing in a firm and its relationships with the other functional areas of business (e.g., accounting, finance, MIS, management).
+    #. Identify the key issues that marketers face in various decision areas. 
+    #. Apply the key principles and use the terminology marketers use to discuss marketing issues. 
+    #. Identify and apply the key tools that marketers use to deal with marketing issues.
+
+Class Format and Policies
++++++++++++++++++++++++++
+
+Class sessions will include lectures, guest speakers, discussion of text and business press articles, in class exercises and other activities and films. The class sessions will be based on content from the textbook and on business press articles. Class participation will be graded. 
+
+I expect you to conduct yourselves professionally. This includes arriving to class on time; turning off your computers, tablets, cell phones, etc., during the class sessions; refraining from conducting personal conversations during class and being respectful to your classmates and your instructor. If you must miss a class, it is your responsibility to contact a classmate for missed notes or other announcements.
+
+Grading
++++++++
+
+You will be evaluated based on three tests, an optional final, class attendance, class contribution, in-class exercises and a marketing project in the following manner: 
+
+
+===================   ===============
+Exam 1                 60 points
+Exam 2                 60 points
+Exam 3                 60 points
+Marketing Project      30 points
+Exercise               20 points
+Contribution           10 points
+Attendance             10 points
+Total                  250 points
+===================   ===============
+
+These points will be translated into a letter grade as follows:
+
++-----------+------+--------------+------+
+| 230 – 250:|  A   |    180 – 194:|  C   | 
++-----------+------+--------------+------+
+| 225 – 229:|  A-  |    175 – 179:|  C-  |
++-----------+------+--------------+------+
+| 220 – 224:|  B+  |    170 – 174:|  D+  |
++-----------+------+--------------+------+
+| 205 – 219:|  B   |    155 – 169:|  D   |
++-----------+------+--------------+------+
+| 200 – 204:|  B-  |    150 – 154:|  D-  |
++-----------+------+--------------+------+
+| 195 – 199:|  C+  |    Below 150:|  F   |
++-----------+------+--------------+------+
+
+Once the final course grading scale is set, there is no possibility of changing it. There will be no extra credit work outside of the opportunities available via the Marketing Department Subject pool (described below). If you miss the next highest grade by one point you will have my sympathy - but I will not change your grade.
+
+Exams
++++++
+
+The tests will cover assigned chapters, assigned business press articles, exercises, class discussions, and guest speakers. Some topics in the textbook will not be covered in class due to time constraint, but will still be in the exams; make sure to read the assigned chapters thoroughly when preparing for the exams.
+
+Each of the three tests given during the semester will consist of multiple choice questions and open ended questions. You will have the opportunity to take an optional comprehensive final exam. The optional final will consist of multiple choice questions only. The optional final will replace your lowest test score.
+
+**THERE WILL BE NO MAKE UP TESTS.** If you miss a scheduled test for any reason, you can take the optional final to substitute for that missed test. If you should find that you will have to miss more than one of the scheduled tests, you should drop this course as there will be no way for you to make up more than one missed test. 
+
+see `More About Exams`_.
+
+Marketing Project
++++++++++++++++++
+
+Each student will be assigned to a group to work with on a business project. This project will span the entire semester and will involve two parts: a mid-term report and a final presentation. In this project you will come up with a new product and a simple marketing plan for the product applying what you learned in class.
+
+In-Class Exercise
++++++++++++++++++
+
+During the last 20-40 minutes of class time there will often be an in-class group exercise that allows you to apply the concepts from that day’s lecture. On days that you are asked to complete these exercises, you will turn them in to be graded. Some exercises will be assigned to complete outside of class (think of them as group homework). Same group members will receive the same score. Your three lowest exercise grades will be dropped at the end of the semester.
+
+Attendance and Class Contribution
++++++++++++++++++++++++++++++++++
+
+In the beginning of every class, there will be an “Attendance and Participation Sign-Up Sheet” in front of the classroom. If the sheet does not have your signature, you are considered absent. It is your responsibility to fill out this sheet to prove your attendance. If you are late to class, you must notify the instructor of your presence AFTER the class is over. Do NOT try to fill out during class - it is a distraction to everyone. 
+
+Attendance
+================================================
+
+Everyone starts with 12 attendance points and maximum 10 attendance points will be counted for the grade. Each absence will result in 1 point reduction and being late/leaving early with a legitimate reason will result in 0.5 point reduction in the attendance points. 2 additional points are for excused attendance in case of emergencies. 
+
+Note that attendance will be taken for guest lectures, in-class project work days, and project presentation days, but will not be taken on test days and exam review sessions.
+
+Class Contribution
+================================================
+
+In addition, those of you who feel prepared (read all the chapters and assigned articles) should place a check mark next to your name in the sign-up sheet. Everyone who places a check mark will receive 1 participation point for that day. I will cold call several students among those who placed a check mark. These will be reasonably easy questions that you can answer as long as you read and understood the major concepts. If you provide a good (or at least reasonable) answer you will receive 1 extra point (total 2 points in this case). If you cannot answer the question at all, making it obvious that you have not read the textbook and article, you will not only be taken away the 1 point you received for signing up, but will also receive a -1 point (this is to prevent students from signing up for credit when they are, in fact, unprepared). You can earn up to 10 points for class contribution. A negative score is possible if you never participate while keep interrupting or missing classes.
+
+Your participation score for that day will be dropped by 1 point for every unprofessional classroom behavior such as using your phone or failure to actively participate in class exercises.
+
+More About Exams
+++++++++++++++++
+
+Day of the Exam
+================
+
+* You must bring a photo ID and a soft lead (#2) pencil (two pencils just in case) to the exams. 
+* You MAY NOT use any books, notes, or electronic devices during the exams. No cell phones! 
+* Ball caps must have bills turned to the back of your head. 
+* If the proctors find you are using any books, other written materials or electronic devices, they will take your test and you will receive zero score for the test. 
+
+Test Feedback 
+================
+
+Test grades will be posted on Blackboard as soon as possible after you have completed the exam. If you want to ask about specific questions on the test, you can talk with Professor Ro. Please respect office hours. If you cannot meet during scheduled office hours, contact Professor Ro via e-mail to schedule an appointment.
+
+Check Your Scores Within 10 Days of Posting
+================================================
+
+If you think there may have been a mistake in your posted scores (test grade, attendance or contribution points, etc), you must resolve this issue with Professor Ro within 10 days of it being posted on Blackboard. If you do not do this, your score, even if it should have been changed, will not be modified. 
+
+Final Exam Days and Times 
+================================
+
+The optional final exam for this class will be administered on the date/time as posted on the registrar's web site: Friday, December 14, 7:00-10:00 pm
+
+How You Can Have A successful Experience In This Class
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Complete the Readings 
+================================================
+
+Read the assigned business press articles as well as the assigned chapters from the textbook prior to attending class. This will help you become familiar with the language we will use in our class discussions and provide you an overview of the concepts you will apply during class activities. Being prepared for class will earn you a high participation score as you will have more to say.
+
+Attend Class 
+================================================
+
+The class discussions and activities are intended to give you a chance to apply the information discussed in the text. This application will help you understand the information more intuitively and recall the information for tests.
+
+Participate and Ask Questions 
+================================================
+
+On the surface marketing may appear easy, but it is much more complex than people think. During class take advantage of the opportunity to ask questions and participate in the class discussion. After class, review the class notes and if you have any questions see the instructor. It is best for you to get your answers before you take a test, not after.
+
+Apply What You Learned 
+================================================
+
+One thing I will constantly ask you to do in class discussions, exercises, and the group project, is to apply the marketing concepts that you learned in class. Always look for links between what you learned in class and what you see in the world, instead of relying “common sense.” Such applications will help you develop stronger arguments.
+
+Class e-mail List and Blackboard
+++++++++++++++++++++++++++++++++
+
+E-mails with important class-related information will occasionally be sent via Blackboard.  To be sure that you receive those important messages, make sure that the official UT email address for you is correct.
+
+You exam and participation scores will be posted on Blackboard within a week after each exam.
+
+Academic Dishonesty
++++++++++++++++++++
+
+Marketing 337 will operate in full compliance with the Policy Statement on Scholastic Dishonesty for the University of Texas at Austin, which is described in detail at: http://deanofstudents.utexas.edu/sjs/acint_student.php
+
+By enrolling in this class you have agreed to observe all student responsibilities described in that document. If the application of that Policy Statement to this class and its assignments is unclear in any way, it is your responsibility to ask me for clarification. Students who violate University rules on scholastic honesty are subject to disciplinary penalties, including the possibility of failure in the course and/or dismissal from the University. You should refer to the Student Judicial Services Web site at http://deanofstudents.utexas.edu/sjs/ or the General Information Catalog to access the official University Policies and Procedures on Scholastic Dishonesty. 
+
+Because of the large size of the group with whom you will be taking tests, some students may be tempted to cheat. DON'T. I will refer students to Student Judicial Services when necessary.
+
+Students With Disabilities
+++++++++++++++++++++++++++
+
+Students with disabilities may request appropriate academic accommodations from the Division of Diversity and Community Engagement, Services for Students with Disabilities, 471-6259.
+

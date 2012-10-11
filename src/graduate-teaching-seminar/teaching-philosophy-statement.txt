@@ -1,0 +1,58 @@
+.. rst3: filename: src/graduate-teaching-seminar/teaching-philosophy-statement
+
+#######################################
+Teaching Philosophy Statement
+#######################################
+
+
+Joon Ro
+
+I believe individuals learn by self-studying ultimately. Instructors can only facilitate them to find interest in a given topic by engaging them and help them when they are stuck or have questions, but ultimately, students need to study by themselves to truly understand something. Hence, in my opinion, good teaching not only has to effectively deliver the information, but also has to engage students and help them develop interests in the topic, thus they will work on it by themselves later. 
+
+I found marketing to be a hard subject to teach because of the following two reasons: firstly, it is a field that requires a broad understanding of many different disciplines. For example, students would need knowledge of field of business, economy, communication, psychology, and culture. Secondly, oftentimes students approach marketing classes under the impression that it is easy, because it is common sense. Such prior beliefs are likely to undermine students’ motivation to learn. 
+
+As an instructor in marketing, I believe that helping students understand the depth of marketing and its relevance to real applications as both a professional and academic field is the first goal. Furthermore, I want them to develop interests for at least one of the subtopics and so they will either do further research on the topic or, take electives. The following statements are derived with these goals in mind.
+
+Lectures
+==========================
+
+Class Structure
+------------------------
+
+The lecture should consist of variety of teaching methods to keep students engaged. Fortunately, many marketing activities firms do are inherently consumer-oriented, thus it is relatively convenient to find relevant real-world examples for course materials. Hence the typical class would consist of introduction of concepts, showing real-world examples, in-depth discussion, some lecture, and then small class exercise. 
+
+Interaction in classroom
+------------------------
+
+Interaction in the classroom is essential because it will make students more engaged, and it just makes the class less boring. The best classes that I have taken are the ones where the instructor welcomed questions and discussions. I try to facilitate the interaction during the classroom by asking questions and cold calling. When I ask questions, I try to wait as much as possible, because it usually takes some time for the students to process the question and come up with an answer. However, I do not think I am good enough at this and I want to develop this skill the most.
+
+Guest Lectures
+------------------------
+
+Another important teaching method is having guest lecturers. We have had several guest lectures in marketing courses. People who work in actual marketing positions in firms can provide concrete examples of how theoretical concepts are applied. They also provide new insight that is not included in the textbook. Moreover, this can be a great opportunity for students who are interested in working in the same field to ask questions and make connections.
+
+Marketing Projects
+------------------------
+
+Marketing projects would be a group exercise for students to actually apply what they have learned during the class to a potential marketing problem. I believe it will give students additional benefit from the experiences of working in groups and making in-class presentation. These will be helpful in their future endeavors. 
+
+Evaluations and Feedback
+==========================
+
+Assessment is important mechanism to give students feedback. Because of limited time and personality differences, the levels of participation in in-class discussions can be vastly differ across students. For some students, the assessment from the instructor can be the only source of getting feedback. Hence, assessment should be prompt, and it should correctly indicate what students did well/poorly. I prefer to assess students in several different aspects: exams, homeworks/exercises, in-class participation, project/paper, or/and in class presentation of the project. I try to incorporate all of those in my class. 
+
+Feedback
+------------------------
+
+Feedback should be made as promptly as possible to enhance the reinforcement or punishment effects. To make a strong association between their input and feedback in the students’ mind, the feedback should be provided when the input is still fresh in their minds.
+
+Student Feedback
+------------------------
+
+Students must feel free to express their feedback of the class. I believe it is unfair to students if the only way of giving their feedback is through the course evaluation, which is usually at the end of the class. To promote this I will give students an opportunity to give me feedback about the class after every exam through email. Even though I will not be able to accommodate all their feedback, I believe giving them the opportunities to express their opinion will have positive effects on their learning.
+
+Policies
+==========================
+
+I would regard course syllabus as a contract between students. To treat each student fairly, I will follow the syllabus whenever possible and will try to make as little exceptions as possible. To do so, while it covers all the general circumstances such as attendance and exam date policies, I will make my syllabus so it will automatically take care of exceptions. For example, I would have an optional final exam and so students who have to miss an exam can take that one.
+
