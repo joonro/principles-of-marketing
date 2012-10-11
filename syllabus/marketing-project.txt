@@ -12,7 +12,7 @@ You will be assigned to a group of 5 students each. You and your team members wi
 *   Mid-Report (10 Points): Report must be e-mailed to Professor Ro by 11:59PM on 11/5/2012
 *   Final Presentation (20 Points): 11/28, 12/3, and 12/5/2012 (20 minutes per group; 15min presentation, 5min Q&A)
 
-Note: To prevent free riding, each member of the group will assess their team members’ contributions to the project. Individuals can receive deductions if their team members indicate a lack of contribution. Peer evaluation instructions will be provided to you toward the end of the semester. You will turn in peer evaluations twice (for mid-report and ﬁnal presentation).
+Note: To prevent free riding, each member of the group will assess their team members’ contributions to the project. Individuals can receive deductions if their team members indicate a lack of contribution. Peer evaluation instructions will be provided to you toward the end of the semester. You will turn in peer evaluations twice (for mid-report and final presentation).
 
 Important Tips
 ++++++++++++++
@@ -23,7 +23,7 @@ Important Tips
 Choosing a Business
 +++++++++++++++++++
 
-For your business, completely new good or service would be better, but at the minimum, it has to be something currently not served in Austin.
+For your business, completely new good or service would be better, but at the minimum, it has to be *something currently not served in Austin*.
 
 A few pointers to keep in mind when choosing a business (simply suggestions - not requirements - for what have made good projects in the past):
 
@@ -37,7 +37,7 @@ Mid-Term Report Paper
 *   Use only the information that is directly relevant to your marketing plan.
 *   Business: Start by selecting a business. 
 
-    *   Identify a marketing idea - an unsatisﬁed consumer need (please see the above section for pointers on choosing a business).
+    *   Identify a marketing idea - an unsatisfied consumer need (please see the above section for pointers on choosing a business).
     *   Creative thinking is encouraged, but your plan must be realistic and executable. Respect reasonable constraints (i.e. resources) and environmental forces (i.e. the economy).
     *   Once you discover a consumer need and a target market, describe what good(s) or services(s) you plan to offer to satisfy this need.
 
@@ -51,7 +51,7 @@ Mid-Term Report Paper
 
     *   What are your research objectives; they need to be 1) concrete and 2) measurable
 
-    *   How would you fulﬁll these objectives?
+    *   How would you fulfill these objectives?
     
         *   Research methods
         *   Type of data
