@@ -8,7 +8,7 @@ MKT 337 Principles of Marketing
 .. toctree::
    :maxdepth: 3
 
-   syllabus/index
+   syllabus/general-info
    ...
    
 .. this is a comment.
