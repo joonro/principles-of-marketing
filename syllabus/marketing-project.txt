@@ -29,9 +29,8 @@ A few pointers to keep in mind when choosing a business (simply suggestions - no
 *   Something small. This will help you be more focused and make it easier for you to apply marketing concepts in straightforward manner.
 *   Start with your own problem - is there a need that you have as a consumer that is not met by any product in current market?
 
-
 Mid-Term Report Paper
-========================
++++++++++++++++++++++
 
 *   Format: Maximum 10 pages; double spaced; Arial font size 12; 1 inch margins)
 *   Use only the information that is directly relevant to your marketing plan.
@@ -55,4 +54,9 @@ Mid-Term Report Paper
     
         *   Research methods
         *   Type of data
+
+Final Presentation
+++++++++++++++++++
+
+Guidelines for final presentation
 
