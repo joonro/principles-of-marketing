@@ -81,22 +81,14 @@ Each of the three tests given during the semester will consist of multiple choic
 
 **THERE WILL BE NO MAKE UP TESTS.** If you miss a scheduled test for any reason, you can take the optional final to substitute for that missed test. If you should find that you will have to miss more than one of the scheduled tests, you should drop this course as there will be no way for you to make up more than one missed test. 
 
-.. toctree::
-   :maxdepth: 2
-
-   more-about-exams
-   ...
+:ref:`more-about-exams`
 
 Marketing Project
 +++++++++++++++++
 
 Each student will be assigned to a group to work with on a business project. This project will span the entire semester and will involve two parts: a mid-term report and a final presentation. In this project you will come up with a new product and a simple marketing plan for the product applying what you learned in class.
 
-.. toctree::
-   :maxdepth: 2
-
-   marketing-project
-   ...
+:ref:`guidelines-for-marketing-project`
 
 In-Class Exercise
 +++++++++++++++++

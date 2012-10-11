@@ -1,5 +1,7 @@
 .. rst3: filename: docs/syllabus/more-about-exams
 
+.. _more-about-exams:
+
 #######################################   
 More About Exams
 #######################################
