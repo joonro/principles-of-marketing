@@ -1,0 +1,14 @@
+.. rst3: filename: docs/syllabus/index
+
+#######################################
+Syllabus
+#######################################
+
+.. toctree::
+   :maxdepth: 2
+
+   syllabus
+   more-about-exams
+   marketing-project
+   ...
+
