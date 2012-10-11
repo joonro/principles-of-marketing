@@ -1,0 +1,10 @@
+.. rst3: filename: docs/syllabus/schedule
+
+.. _schedule:
+
+#######################################   
+Schedule of Class Sessions
+#######################################
+
+*updated on 9/24/2012*
+

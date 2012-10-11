@@ -9,6 +9,7 @@ MKT 337 Principles of Marketing
    :maxdepth: 2
 
    syllabus/general-info
+   syllabus/schedule
    syllabus/more-about-exams
    syllabus/marketing-project
    ...

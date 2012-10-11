@@ -14,7 +14,9 @@ You will be assigned to a group of 5 students each. You and your team members wi
 *   Mid-Report (10 Points): Report must be e-mailed to Professor Ro by 11:59PM on 11/5/2012
 *   Final Presentation (20 Points): 11/28, 12/3, and 12/5/2012 (20 minutes per group; 15min presentation, 5min Q&A)
 
-Note: To prevent free riding, each member of the group will assess their team members’ contributions to the project. Individuals can receive deductions if their team members indicate a lack of contribution. Peer evaluation instructions will be provided to you toward the end of the semester. You will turn in peer evaluations twice (for mid-report and final presentation).
+.. note::
+
+    To prevent free riding, each member of the group will assess their team members’ contributions to the project. Individuals can receive deductions if their team members indicate a lack of contribution. Peer evaluation instructions will be provided to you toward the end of the semester. You will turn in peer evaluations twice (for mid-report and final presentation).
 
 Important Tips
 ++++++++++++++

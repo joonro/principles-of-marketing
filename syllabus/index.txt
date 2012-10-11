@@ -8,6 +8,7 @@ Syllabus
    :maxdepth: 2
 
    syllabus
+   schedule
    more-about-exams
    marketing-project
    ...

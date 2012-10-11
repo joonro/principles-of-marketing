@@ -79,16 +79,22 @@ The tests will cover assigned chapters, assigned business press articles, exerci
 
 Each of the three tests given during the semester will consist of multiple choice questions and open ended questions. You will have the opportunity to take an optional comprehensive final exam. The optional final will consist of multiple choice questions only. The optional final will replace your lowest test score.
 
-**THERE WILL BE NO MAKE UP TESTS.** If you miss a scheduled test for any reason, you can take the optional final to substitute for that missed test. If you should find that you will have to miss more than one of the scheduled tests, you should drop this course as there will be no way for you to make up more than one missed test. 
+.. warning::
+    
+    **THERE WILL BE NO MAKE UP TESTS.** If you miss a scheduled test for any reason, you can take the optional final to substitute for that missed test. If you should find that you will have to miss more than one of the scheduled tests, you should drop this course as there will be no way for you to make up more than one missed test. 
 
-:ref:`more-about-exams`
+.. seealso::
+    
+    :ref:`more-about-exams`
 
 Marketing Project
 +++++++++++++++++
 
 Each student will be assigned to a group to work with on a business project. This project will span the entire semester and will involve two parts: a mid-term report and a final presentation. In this project you will come up with a new product and a simple marketing plan for the product applying what you learned in class.
 
-:ref:`guidelines-for-marketing-project`
+.. seealso::
+    
+    :ref:`guidelines-for-marketing-project`
 
 In-Class Exercise
 +++++++++++++++++
