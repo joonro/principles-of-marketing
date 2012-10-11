@@ -1,5 +1,7 @@
 .. rst3: filename: docs/syllabus/schedule
 
+.. tabularcolumns:: |c|c|l|p{11cm}|c|
+
 .. _schedule:
 
 #######################################   
