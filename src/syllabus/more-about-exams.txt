@@ -1,4 +1,4 @@
-.. rst3: filename: src/mkt337/syllabus/more-about-exams
+.. rst3: filename: docs/src/syllabus/more-about-exams
 
 #######################################   
 More About Exams

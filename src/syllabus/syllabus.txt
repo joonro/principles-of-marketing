@@ -1,4 +1,4 @@
-.. rst3: filename: src/mkt337/syllabus/syllabus
+.. rst3: filename: docs/src/syllabus/syllabus
 
 ########################################
 Syllabus

@@ -1,4 +1,4 @@
-.. rst3: filename: index
+.. rst3: filename: docs/index
 
 
 #######################################
@@ -8,9 +8,7 @@ MKT 337 Principles of Marketing
 .. toctree::
    :maxdepth: 1
 
-   src/mkt337/syllabus/index
-   src/mkt337/learning-objectives
-   src/graduate-teaching-seminar/index
+   src/syllabus/index
    ...
    
 .. this is a comment.
