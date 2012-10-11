@@ -1,7 +1,7 @@
 .. rst3: filename: docs/syllabus/marketing-project
 
 #######################################   
-Guidelines Marketing Project
+Guidelines for Marketing Project
 #######################################
 
 Summary
