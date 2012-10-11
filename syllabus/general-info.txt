@@ -79,7 +79,7 @@ The tests will cover assigned chapters, assigned business press articles, exerci
 
 Each of the three tests given during the semester will consist of multiple choice questions and open ended questions. You will have the opportunity to take an optional comprehensive final exam. The optional final will consist of multiple choice questions only. The optional final will replace your lowest test score.
 
-.. warning::
+.. note::
     
     **THERE WILL BE NO MAKE UP TESTS.** If you miss a scheduled test for any reason, you can take the optional final to substitute for that missed test. If you should find that you will have to miss more than one of the scheduled tests, you should drop this course as there will be no way for you to make up more than one missed test. 
 
