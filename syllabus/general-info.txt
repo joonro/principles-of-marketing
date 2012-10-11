@@ -1,7 +1,7 @@
-.. rst3: filename: docs/syllabus/syllabus
+.. rst3: filename: docs/syllabus/general-info
 
 ########################################
-Syllabus
+General Information
 ########################################
 
 Course Information
