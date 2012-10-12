@@ -5,11 +5,10 @@ Syllabus
 #######################################
 
 .. toctree::
-   :maxdepth: 2
+    :maxdepth: 2
 
-   syllabus
-   schedule
-   more-about-exams
-   marketing-project
-   ...
+    general-info
+    schedule
+    more-about-exams
+    marketing-project
 
