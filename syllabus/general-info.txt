@@ -87,7 +87,7 @@ Exams
 
 The tests will cover assigned chapters, assigned business press articles, exercises, class discussions, and guest speakers. Some topics in the textbook will not be covered in class due to time constraint, but will still be in the exams; make sure to read the assigned chapters thoroughly when preparing for the exams.
 
-Each of the three tests given during the semester will consist of multiple choice questions and open ended questions. You will have the opportunity to take an optional comprehensive final exam. The optional final will consist of multiple choice questions only. The optional final will *replace your lowest test score*.
+Each of the three tests given during the semester will consist of multiple choice questions and open ended questions. You will have the opportunity to take an optional comprehensive final exam. The optional final will consist of multiple choice questions only. Should you score higher in the final than your lowest test score, the optional final will *replace the lowest test score*.
 
 .. note::
     

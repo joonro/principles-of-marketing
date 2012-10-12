@@ -1,6 +1,5 @@
 .. rst3: filename: docs/index
 
-
 #######################################
 MKT 337 Principles of Marketing
 #######################################
