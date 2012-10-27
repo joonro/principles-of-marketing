@@ -23,6 +23,8 @@ Important Tips
 
 #.  Apply the marketing knowledge you learned in class to your project. This will help you develop a strong marketing plan, and will also give you a higher grade.
 #.  Stay focused: ONLY present directly relevant information in your papers and presentations.
+#.  Be as specific as possible. For example, instead of saying the prices will differ across order sizes,  give specific numbers (1: $10, 2: $18, etc)
+#.  Provide an argument for your decisions. For example, if you are going to charge $20 for your service,  also states WHY you think that price is reasonable or optimal.
 
 Choosing a Business
 +++++++++++++++++++
