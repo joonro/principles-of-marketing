@@ -39,7 +39,7 @@ A few pointers to keep in mind when choosing a business (simply suggestions - no
 Mid-Term Report Paper
 +++++++++++++++++++++
 
-*   Format: Maximum 10 pages; double spaced; Arial font size 12; 1 inch margins)
+*   Format: *Maximum* 10 pages; double spaced; Arial font size 12; 1 inch margins)
 *   Use only the information that is directly relevant to your marketing plan.
 *   Business: Start by selecting a business. 
 
@@ -61,6 +61,10 @@ Mid-Term Report Paper
     
         *   Research methods
         *   Type of data
+
+.. note::
+
+    Remember it is MAXIMUM 10 pages. Number of pages will not be a factor in grading.
 
 Final Presentation
 ++++++++++++++++++
