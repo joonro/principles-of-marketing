@@ -51,7 +51,7 @@ Mid-Term Report Paper
 
     *   Who are they? What are they like? What are their needs?
     *   Including the size and growth of the market.
-    *   Environmental Forces: Describe the social, economic, technological, competitive, and regulatory trends that may help or hurt the performance of your business, both currently and in the future. Apply concepts from your textbook chapter 3.
+    *   Environmental Forces: Describe any of the social, economic, technological, competitive, and regulatory trends that may be pertinent to the performance of your business, both currently and in the future. Apply concepts from your textbook chapter 3.
 
 *   Marketing Research Plan
 
@@ -64,7 +64,11 @@ Mid-Term Report Paper
 
 .. note::
 
-    Remember it is MAXIMUM 10 pages. Number of pages will not be a factor in grading.
+    Remember it is MAXIMUM 10 pages. Number of pages will not be a factor in grading.        
+    
+.. seealso::
+    
+    :ref:`mid-term-report-rubric`
 
 Final Presentation
 ++++++++++++++++++
