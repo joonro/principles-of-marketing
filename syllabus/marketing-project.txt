@@ -73,5 +73,70 @@ Mid-Term Report Paper
 Final Presentation
 ++++++++++++++++++
 
-Guidelines for final presentation
+Format
+------------
+
+*   15 minute presentation
+*   5 minute Q&A
+*   You can freely choose who is going to present - one presenter, a coupler of presenters, or each members of your group taking turns - all fine.
+
+
+Contents
+------------
+
+*   Basically you will present your business plan with marketing mix.
+*   Please address issues raised in the feedback
+*   Since you have not conducted marketing research, you should provide reasonable arguments for your decisions
+*   In addition to the materials from the Mid-Term paper, your presentation should include the following contents.
+
+Business
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+*   Include how you would position your product
+
+    *   Perceptual map
+
+
+Market Situation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+*   Include SWOT analysis
+
+
+Marketing Research Plan
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+*   Describe what are the research objectives and what kind of research you would do
+
+
+Marketing Mix
+^^^^^^^^^^^^^^
+
+*   Specify and describe the proposed decisions for each marketing mix element (the 4 Ps).
+
+#.  Product
+    
+    *   Your offerings. What is the need you discovered, and how will you satisfy it?
+    *   Since you would have already described product in earlier sections, you can briefly summarize your product here.
+    
+#.  Price
+    
+    *   Describe how you will price your product(s) and why.
+    
+#.  Promotion
+
+    *   What is your promotion strategy and why.
+    
+#.  Place
+    
+    *   How will your company deliver its goods/services to its customers (e.g., stores, direct mail, online, etc) and why.
+
+
+.. 
+    Present concrete plans on the size and importance of each distribution channel.
+
+..
+    .. seealso::
+        
+        :ref:`rubric-presentation`
 
