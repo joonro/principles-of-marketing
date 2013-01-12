@@ -1,6 +1,6 @@
 .. rst3: filename: docs/syllabus/rubric-mid-term-report
 
-.. _mid-term-report-rubric:
+.. _rubric-mid-term-report:
 
 #######################################   
 Rubric for Mid-Term Report Paper
