@@ -71,21 +71,24 @@ Total                  250 points
 
 These points will be translated into a letter grade as follows:
 
-+-----------+------+--------------+------+
-| 230 – 250:|  A   |    180 – 194:|  C   | 
-+-----------+------+--------------+------+
-| 225 – 229:|  A-  |    175 – 179:|  C-  |
-+-----------+------+--------------+------+
-| 220 – 224:|  B+  |    170 – 174:|  D+  |
-+-----------+------+--------------+------+
-| 205 – 219:|  B   |    155 – 169:|  D   |
-+-----------+------+--------------+------+
-| 200 – 204:|  B-  |    150 – 154:|  D-  |
-+-----------+------+--------------+------+
-| 195 – 199:|  C+  |    Below 150:|  F   |
-+-----------+------+--------------+------+
++-------------+------+-------------+------+
+| [230, 250]: |  A   | [180, 195): |  C   | 
++-------------+------+-------------+------+
+| [225, 230): |  A-  | [175, 180): |  C-  |
++-------------+------+-------------+------+
+| [220, 225): |  B+  | [170, 175): |  D+  |
++-------------+------+-------------+------+
+| [205, 220): |  B   | [155, 170): |  D   |
++-------------+------+-------------+------+
+| [200, 205): |  B-  | [150, 155): |  D-  |
++-------------+------+-------------+------+
+| [195, 200): |  C+  | [0, 150)  : |  F   |
++-------------+------+-------------+------+
 
-Once the final course grading scale is set, there is no possibility of changing it. There will be no extra credit work outside of the opportunities available via the Marketing Department Subject pool (described below). If you miss the next highest grade by one point you will have my sympathy - but I will not change your grade.
+"[": inclusive, ")": exclusive
+
+
+Once the final course grading scale is set, there is no possibility of changing it. There will be no extra credit work outside of the opportunities available via the Marketing Department Subject pool (described below). Also, there is no rounding of decimal points. If you miss the next highest grade by 0.1 point you will have my sympathy - but I will not change your grade.
 
 Exams
 +++++
