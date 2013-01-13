@@ -47,26 +47,26 @@ Objectives
 
 Over the course of the semester you will:
 
-    #.  Gain knowledge of the evolution of the marketing concept, including
-     the historical context of changes in the concepts of marketing, and the
-     role that marketing currently plays in the interaction between business
-     and society.
-    #.  Learn how to analyze overall business strategy within an organization
-     and connect it to the development of marketing strategy.
-    #.  Gain knowledge of the basic framework of the marketing process,
-     including the situation analysis (5 Cs), market strategy development
-     (STP), and marketing mix decisions (4 Ps), and learn how to apply them to
-     key issues that marketers encounter in implementing marketing strategy.
-    #.  Gain knowledge of basic responsibilities and activities of the
-     marketing process/system and the relationship of those to the other
-     functional areas of organization, such as accounting, finance, MIS, and
-     management.
-    #.  Learn how to analyze qualitative and quantitative data using common
-     tools and methods as part of a critical analysis of a marketing
-     situation.
-    #.  Develop creative marketing solutions, using key marketing terminology,
-     tools, and tactics, and evaluate them via considerations of potential
-     business impact (e.g., financial analysis).
+   #. Gain knowledge of the evolution of the marketing concept, including the
+      historical context of changes in the concepts of marketing, and the role
+      that marketing currently plays in the interaction between business and
+      society.
+   #. Learn how to analyze overall business strategy within an organization and
+      connect it to the development of marketing strategy.
+   #. Gain knowledge of the basic framework of the marketing process,
+      including the situation analysis (5 Cs), market strategy development
+      (STP), and marketing mix decisions (4 Ps), and learn how to apply them to
+      key issues that marketers encounter in implementing marketing strategy.
+   #. Gain knowledge of basic responsibilities and activities of the
+      marketing process/system and the relationship of those to the other
+      functional areas of organization, such as accounting, finance, MIS, and
+      management.
+   #. Learn how to analyze qualitative and quantitative data using common
+      tools and methods as part of a critical analysis of a marketing
+      situation.
+   #. Develop creative marketing solutions, using key marketing terminology,
+      tools, and tactics, and evaluate them via considerations of potential
+      business impact (e.g., financial analysis).
 
 Class Format and Policies
 +++++++++++++++++++++++++
