@@ -1,11 +1,11 @@
 .. rst3: filename: docs/syllabus/general-info
 
-########################################
-General Information
-########################################
+=====================
+ General Information
+=====================
 
 Course Information
-++++++++++++++++++
+==================
 
 +---------------+--------------------------------------+------------+-----------------+
 |       Principles of Marketing                        |            |                 |
@@ -25,7 +25,7 @@ Course Information
 .. _CBA4348: https://www.mccombs.utexas.edu/~/media/Images/MSB/Technology%20Services/MediaServices/Maps/CBA-4th-990x.ashx
 
 Course Purpose & Objectives
-+++++++++++++++++++++++++++
+===========================
 
 Purpose
 ----------
@@ -69,7 +69,7 @@ Over the course of the semester you will:
       business impact (e.g., financial analysis).
 
 Class Format and Policies
-+++++++++++++++++++++++++
+=========================
 
 Class sessions will include lectures, guest speakers, discussion of text and
 business press articles, in class exercises and other activities and
@@ -84,7 +84,7 @@ miss a class, it is your responsibility to contact a classmate for missed
 notes or other announcements.
 
 Grading
-+++++++
+=======
 
 You will be evaluated based on three tests, an optional final, class
 attendance, class contribution, in-class exercises and a marketing project in
@@ -129,7 +129,7 @@ there is no rounding of decimal points. If you miss the next highest grade by
 0.1 point you will have my sympathy - but I will not change your grade.
 
 Exams
-+++++
+=====
 
 The tests will cover assigned chapters, assigned business press articles,
 exercises, class discussions, and guest speakers. Some topics in the textbook
@@ -156,7 +156,7 @@ lowest test score, the optional final will *replace the lowest test score*.
     :ref:`more-about-exams`
 
 Marketing Project
-+++++++++++++++++
+=================
 
 Each student will be assigned to a group to work with on a business
 project. This project will span the entire semester and will involve two
@@ -169,7 +169,7 @@ applying what you learned in class.
     :ref:`guidelines-for-marketing-project`
 
 In-Class Exercise
-+++++++++++++++++
+=================
 
 During the last 20-40 minutes of class time there will often be an in-class
 group exercise that allows you to apply the concepts from that day’s
@@ -180,7 +180,7 @@ same score. Your three lowest exercise grades will be dropped at the end of
 the semester.
 
 Attendance and Class Contribution
-+++++++++++++++++++++++++++++++++
+=================================
 
 In the beginning of every class, there will be an “Attendance and
 Participation Sign-Up Sheet” in front of the classroom. If the sheet does not
@@ -190,7 +190,7 @@ must notify the instructor of your presence AFTER the class is over. Do NOT
 try to fill out during class - it is a distraction to everyone.
 
 Attendance Points
------------------------------------------
+-----------------
 
 Everyone starts with 12 attendance points and maximum 10 attendance points
 will be counted for the grade. Each absence will result in 1 point reduction
@@ -203,7 +203,7 @@ days, and project presentation days, but will not be taken on test days and
 exam review sessions.
 
 Class Contribution Points
------------------------------------------
+-------------------------
 
 
 In addition, those of you who feel prepared (read the chapters and assigned
@@ -222,10 +222,10 @@ fact, unprepared). You can earn up to 10 points for class contribution.
 Your participation score for that day will be dropped by 1 point for every unprofessional classroom behavior such as using your phone. A negative score is possible if you keep showing such a behavior during classes and coming unprepared.
 
 How You Can Have a Successful Experience in this Class
-++++++++++++++++++++++++++++++++++++++++++++++++++++++
+======================================================
 
-Complete the Readings 
------------------------------------------
+Complete the Readings
+---------------------
 
 Read the assigned business press articles as well as the assigned chapters
 from the textbook prior to attending a class. This will help you become
@@ -235,16 +235,16 @@ you an overview of the concepts you will apply during class activities.
 .. Being prepared for class will earn you a high participation score as you
 .. will have more to say.
 
-Attend Class 
------------------------------------------
+Attend Class
+------------
 
 The class discussions and activities are intended to give you a chance to
 apply the information discussed in the text. This application will help you
 understand the information more intuitively and recall the information for
 tests.
 
-Participate and Ask Questions 
------------------------------------------
+Participate and Ask Questions
+-----------------------------
 
 On the surface marketing may appear easy, but it is much more complex than
 people think. During class take advantage of the opportunity to ask questions
@@ -252,8 +252,8 @@ and participate in the class discussion. After class, review the class notes
 and if you have any questions see the instructor. It is best for you to get
 your answers before you take a test, not after.
 
-Apply What You Learned 
------------------------------------------
+Apply What You Learned
+----------------------
 
 One thing I will constantly ask you to do in class discussions, exercises, and
 the group project, is to apply the marketing concepts that you learned in
@@ -262,7 +262,7 @@ see in the world, instead of relying “common sense.” Such applications will
 help you develop stronger arguments.
 
 Class E-mail List and Blackboard
-++++++++++++++++++++++++++++++++
+================================
 
 E-mails with important class-related information will occasionally be sent via
 Blackboard. Make sure that your official UT email address on the record is
@@ -272,7 +272,7 @@ You exam, attendance, contribution and exercise scores will be posted on
 Blackboard within a week after each exam.
 
 Academic Dishonesty
-+++++++++++++++++++
+===================
 
 Marketing 337 will operate in full compliance with the Policy Statement on
 Scholastic Dishonesty for the University of Texas at Austin, which is
@@ -294,7 +294,7 @@ some students may be tempted to cheat. DON'T. I will refer students to Student
 Judicial Services when necessary.
 
 Students with Disabilities
-++++++++++++++++++++++++++
+==========================
 
 Students with disabilities may request appropriate academic accommodations
 from the Division of Diversity and Community Engagement, Services for Students

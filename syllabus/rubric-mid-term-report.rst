@@ -2,10 +2,9 @@
 
 .. _rubric-mid-term-report:
 
-#######################################   
-Rubric for Mid-Term Report Paper
-#######################################
-
+==================================
+ Rubric for Mid-Term Report Paper
+==================================
 
 ..
     We are planning to do XXX business. 
@@ -27,42 +26,45 @@ Rubric for Mid-Term Report Paper
         Demand
 
 General
-+++++++
+=======
 
-*   Provide arguments for your decisions
-*   Be as concrete as possible
-*   Is the business generally viable?
+* Provide arguments for your decisions
+* Be as concrete as possible
+* Is the business generally viable?
 
 Business Idea
-+++++++++++++
+=============
 
-*   A business which is not in Austin
+* A business which is not in Austin
 
-    *   Well defined points of differences from potential competitors
+    * Well defined points of differences from potential competitors
 
 Market Situation Analysis
-+++++++++++++++++++++++++
+=========================
 
 Target Market
------------------------------------------
+-------------
 
-*   Characteristics of the target market
-*   Positioning
+* Characteristics of the target market
+* Positioning
 
 
 Environmental Scanning
------------------------------------------
-*   Current (or future) environmental forces pertinent to the performance of the business
+----------------------
+* Current (or future) environmental forces pertinent to the performance of the
+  business
     
-    *   e.g.: (regulatory force) The Texas government is expected to pass XXX environmental bill in 2015 and it will affect my business through increase in my environmental-friendly product
+   * e.g.: (regulatory force) The Texas government is expected to pass XXX
+     environmental bill in 2015 and it will affect my business through
+     increase in my environmental-friendly product
 
 Marketing Research Plan
-+++++++++++++++++++++++
+-----------------------
 
-*   Well-defined research objectives (concrete and measurable)
-*   Identify data needed for marketing actions (marketing mix variables (4Ps))
-*   Concrete research plan (look for step 3 of marketing research for examples)
+* Well-defined research objectives (concrete and measurable)
+* Identify data needed for marketing actions (marketing mix variables (4Ps))
+* Concrete research plan (look for step 3 of marketing research for examples)
     
-    *   Research methods
-    *   Type of data
+   * Research methods
+   * Type of data
 
