@@ -1,8 +1,9 @@
 .. rst3: filename: docs/index
 
-#######################################
-MKT 337 Principles of Marketing
-#######################################
+================================
+ MKT 337 Principles of Marketing
+=================================
+
 
 .. toctree::
     :maxdepth: 2
